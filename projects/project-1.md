@@ -12,27 +12,4 @@ labels:
 summary: A look at my photography work from over the past few years.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
-
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+Photography is something I have been interested in for quite a while now. It all started during my junior year of highschool when I took a Digital Photography class. Since then I took another semester during my Senior year and now have been shooting for fun for the past 2 years out of highschool. Some of my favorite things to shoot is Portraits and sports.
