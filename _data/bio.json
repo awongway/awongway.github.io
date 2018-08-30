@@ -46,8 +46,15 @@
   ],
   "skills": [
     {
-      "name": "",
-      "level": "",
+      "name": "Photoshop",
+      "level": "Amateur",
+      "keywords": [
+        ""
+      ]
+    }.
+    {
+      "name": "Lightroom",
+      "level": "Amateur",
       "keywords": [
         ""
       ]
