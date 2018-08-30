@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: "My Sample Project Title"
+image: images/Coffee Head.png
+title: "Coffee"
 date: 2018-08-30
 labels:
   - Robotics
