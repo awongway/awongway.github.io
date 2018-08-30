@@ -5,7 +5,7 @@ image: images/micromouse.jpg
 title: Coffee & Tea Photo Essay
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2018-07-01
+date: 2017-09-06
 labels:
   - Photography
   - Coffee
