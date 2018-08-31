@@ -13,6 +13,7 @@ This was the fist assignment for ICS. What we needed to do was create a function
 
 Here is my sample code:
 
+```
 function projectEulerTwo(limit) {
 
   let prev = 1;
@@ -30,6 +31,7 @@ function projectEulerTwo(limit) {
 
   return sum;
 }
+```
 
 console.log( projectEulerTwo(4000000));
 
