@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ factor.png
+image: images/factor.png
 title: "Sum of Even Numbers"
 date: 2017-09-06
 labels:
