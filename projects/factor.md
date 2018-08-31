@@ -31,7 +31,6 @@ function projectEulerTwo(limit) {
 
   return sum;
 }
-```
 
 console.log( projectEulerTwo(4000000));
-
+```
