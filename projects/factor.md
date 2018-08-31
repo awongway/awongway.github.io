@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Coffee Head.png
+image: images/ factor.png
 title: "Sum of Even Factors"
 date: 2017-09-06
 labels:
