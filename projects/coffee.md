@@ -12,3 +12,6 @@ labels:
 summary: This was my first Photo Essay for Ka Leo.
 ---
 Insert more info [Photo Essay](http://www.manoanow.org/kaleo/photos/coffee-tea/article_77ef2b60-9287-11e7-bc56-e3d3480c7dae.html)
+
+
+<img class="ui medium right floated rounded image" src="../images/Coffee_1.png">
