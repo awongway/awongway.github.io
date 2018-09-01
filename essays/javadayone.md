@@ -1,5 +1,5 @@
 ---
-layout: essay
+layout: essays
 type: essay
 title: Java: Day One...Still Alive
 date: 2018-08-31
