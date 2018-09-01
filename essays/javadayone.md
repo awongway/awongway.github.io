@@ -1,7 +1,8 @@
 ---
-layout: essays
+layout: essay
 type: essay
-title: Java: Day One...Still Alive
+title: Java Day One...Still Alive ?
+# All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:
   - Java
