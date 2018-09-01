@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: GitWhat?
+title: Java
 date: 2018-08-29
 labels:
   - GitHub
