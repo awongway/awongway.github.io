@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Don't Be A Luser
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-31
+date: 2018-09-06
 labels:
   - Stackoverflow
   - questions
