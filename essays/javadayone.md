@@ -9,6 +9,8 @@ labels:
   - Learning
 ---
 
+<img class="ui medium right floated rounded image" src="../images/javascript.png">
+
 ## My Background
 Oh Java, one of the many languages of the programming world. People have their pros and cons on why they pick a certain language when it coems to coding. They know what works for them and what doesn't. However for me, I've only coded on Java explictly. I have not tried any other lagnuage besides Java. Is that a good thing you may ask? Im not sure yet, however from what I've done so far, I'm a fan of Java. 
 
