@@ -10,7 +10,7 @@ labels:
   - HTML
 ---
 
-<img class="ui medium right floated rounded image" src="../images/javascript.png">
+<img class="ui medium right floated rounded image" src="../images/logo.png">
 
 ## First Impressions
 Prior to this past week, I have never used HTML, CSS, or UI Framework. The idea of creating a website always scared me with countless lines of code. The closest thing I came close to "developing" my own website was through sites like Wix or Squarespace where they have already done the hard part and written all the code. Now that I have put my foot in the waters of website designing, I realize its not as bad as I built it to be in my head. Granted I am only at the introductory level, but coding isn't to the extent of what I imagined it to be. I started of my coding with HTML. After learning the basics of HTML, I quickly got the hang of it and was able to code faster and more efficient. Using style also gives the ability to change up your site and make it different and unique to how you want it. However not too long after we got comfortable, we were introduced to a new language called Semantic UI.
