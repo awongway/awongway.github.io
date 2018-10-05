@@ -1,23 +1,19 @@
 ---
 layout: essay
 type: essay
-title: Java Day One...Still Alive ?
+title: Is UI Worth it?
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-31
+date: 2018-10-04
 labels:
-  - Java
-  - Learning
+  - UI
+  - Framework
+  - HTML
 ---
 
 <img class="ui medium right floated rounded image" src="../images/javascript.png">
 
-## My Background
-Oh Java, one of the many languages of the programming world. People have their pros and cons on why they pick a certain language when it coems to coding. They know what works for them and what doesn't. However for me, I've only coded on Java explictly. I have not tried any other lagnuage besides Java. Is that a good thing you may ask? Im not sure yet, however from what I've done so far, I'm a fan of Java. 
+## First Impressions
+Prior to this past week, I have never used HTML, CSS, or UI Framework. The idea of creating a website always scared me with countless lines of code. The closest thing I came close to "developing" my own website was through sites like Wix or Squarespace where they have already done the hard part and written all the code. Now that I have put my foot in the waters of website designing, I realize its not as bad as I built it to be in my head. Granted I am only at the introductory level, but coding isn't to the extent of what I imagined it to be. I started of my coding with HTML. After learning the basics of HTML, I quickly got the hang of it and was able to code faster and more efficient. Using style also gives the ability to change up your site and make it different and unique to how you want it. However not too long after we got comfortable, we were introduced to a new language called Semantic UI.
 
-During my first couple of ICS courses, I used the application Eclipse to write code. It was a good program that would tell you where you would go wrong. It was a bit difficult to set up, but it was worth it in the end. I completed a few projects with Java on Eclipse and was happy with the results. After then, that leads me to about a week ago when I started to code using a website called jsFiddle([https://jsfiddle.net]). This is a Java coding site based online where you are able to write code and store it online. 
-
-## jsFiddle so far...
-So far my experience with this site is both good and bad. The part I liked is that the setup was very easy. All I had to do was type the url in my favorite browser and I could start coding. There was no additional installations or programs required which was relief. The only downside I have so far it that I don't know where exactly my "saved" code goes. Everytime I save my code, I cant seem to find it. The work around this is just for me to save the url, that way I'm always able to access it.
-
-## Java Now
-Since the last time I used Java to now, I have learned a bit more stuff. One of them being the difference between the declaration var and let/const. It didnt take me long to get used to using let instead of var. A very small change but nothing I cant handle. 
+## Why Semantic UI?
+Semantic UI is a modern development framework that allows developers to make a sleek, subtle, and flat looking design to their website. When we started using Semantic UI, I was a bit overwhelmed. There were way more options and design choices than HTML. All ranging from menus too columns. Semantic UI gave a lot more things to memorize and use to implement into our coding. Some may argue why we would use such a complicated and frurstating language. However,the way I see it is that in the long term, Semantic UI will be more beneficial than hurtful. Semantic UI has these pre set classes that will organize your content in a much cleaner way. Yes there are a lot of choices, but once you remember them, they will help you countless amount of times. Semantic UI is definitely the way to go and I will continue to use it while still implementing my HTML code. Because the way I see it is that HTML is the raw material, while Sematic UI are pieces that are already built together, and we just have to put them together. This way we save time and can spend that on other things. 
