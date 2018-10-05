@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantics: Hard now, Easy later
+title: Semantics: Thank yourself later
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
