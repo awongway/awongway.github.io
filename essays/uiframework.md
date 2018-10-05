@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Is UI Worth it?
+title: Why deal with Semantics?
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
