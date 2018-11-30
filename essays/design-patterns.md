@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns...the key for speed!
+title: Design Patterns... key for speed!
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-29
 labels:
   - Design
-  - Patterns
+  - Patterthens
   - Coding
 ---
 
