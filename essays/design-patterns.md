@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: GitWhat?
+title: Design Patterns
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-29
+date: 2018-11-29
 labels:
-  - GitHub
-  - Learning
+  - Design
+  - Patterns
+  - Coding
 ---
 
 <img class="ui medium right floated rounded image" src="../images/github.png">
