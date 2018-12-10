@@ -16,3 +16,5 @@ For this semester, our final for ICS 314 was to create a functional website. The
 https://jiffy-jobs.github.io
 
 https://jiffyjobs.meteorapp.com
+
+<img class="ui big center floated rounded image" src="../images/Coffee_1.png">
