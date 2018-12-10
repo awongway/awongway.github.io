@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/factor.png
+image: images/jiffy.png
 title: "Jiffy Jobs Project"
 date: 2018-10-08
 labels:
