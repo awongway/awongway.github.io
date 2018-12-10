@@ -17,4 +17,4 @@ https://jiffy-jobs.github.io
 
 https://jiffyjobs.meteorapp.com
 
-<img class="ui big center floated rounded image" src="../images/jiffyscreen.png">
+<img class="ui medium center floated rounded image" src="../images/jiffyscreen.png">
